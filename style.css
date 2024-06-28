@@ -1,0 +1,117 @@
+h1 {
+    color:rgb(240, 243, 245);
+  }
+
+h2 {
+  color:rgb(240, 243, 245);
+}
+header {
+  background-color: #022e49;
+  color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  section {
+    padding: 20px;
+    background-color: #034f6f;
+    border: 2px solid #ddd;
+    margin-bottom: 20px;
+    color:rgb(201, 209, 217);
+    ;
+  }
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    margin: 100px;
+    color: #3e363f;
+    padding-top: 0px;
+    background-color: #022e49;
+  }
+  nav {
+    padding-top: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #cdcfcf;
+    color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .menu-item:hover {
+    background-color: #ddd;
+    transition: all 0.4s ease-in-out;
+  }
+  
+  #acerca-de-mi{
+
+    text-align: justify;
+
+  }
+
+  #habilidades ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #habilidades ul li {
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    margin-right: 10px;
+  }
+  
+  #experiencia ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #experiencia ul li {
+    margin-bottom: 10px;
+  }
+  
+  #proyectos ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #proyectos ul li a {
+    text-decoration: none;
+    color: #e8e4e4;
+  }
+  
+  #proyectos ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  #sociales {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  #sociales li {
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+  }
+  
+  .fa {
+    color: #333;
+    text-decoration: none;
+    margin-left: 0px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
